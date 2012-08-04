@@ -1,1 +1,1 @@
-Haven't write README.txt yet.
+LabVIEW 2011 and Vision Development System are needed.
